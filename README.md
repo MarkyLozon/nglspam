@@ -30,6 +30,3 @@ The script will automatically start sending the specified message to the given u
 
 If there are 10 consecutive unsuccessful submissions, the script will wait for 5 seconds and then continue with the retry process.
 
-## Support me
-
-<a href="https://www.buymeacoffee.com/SmakeMeMo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee">
