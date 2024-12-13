@@ -16,7 +16,7 @@ This Python script is used to automatically send messages to [ngl.link](https://
      cd nglspam
 3. Install the required libraries by running the following command:
     ```bash
-    pip install -r requirements.txt
+    pip install requests pystyle
 4. NGLSpamer.py Run:
      ```bash
      python NGLSpam.py
